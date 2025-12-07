@@ -72,7 +72,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/shukur-alom/leaf-diseases-detect.git
+   [git clone https://github.com/shukur-alom/leaf-diseases-detect.git](https://github.com/vishal-kadalagi/Leaf-Disease-Detection.git)
    cd leaf-diseases-detect
    ```
 
