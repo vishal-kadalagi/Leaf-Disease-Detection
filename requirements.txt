@@ -1,0 +1,30 @@
+# Core dependencies
+groq>=0.31.0
+python-dotenv>=1.0.0
+
+# API dependencies
+fastapi>=0.116.1
+uvicorn>=0.21.1
+
+# Frontend dependencies
+streamlit>=1.28.0
+
+# Data visualization
+plotly>=5.18.0
+pandas>=2.1.0
+
+# Database (built-in with Python)
+# sqlite3
+
+# Report generation
+reportlab>=3.6.0
+pillow>=10.0.0
+
+# File handling
+python-multipart>=0.0.6
+
+# Testing and utilities
+requests>=2.31.0
+
+# Type hints (for older Python versions)
+typing-extensions>=4.8.0
